@@ -1,3 +1,5 @@
 url: https://gliderforecast.com/blog
 name: Glider Forecast blog
 description: Weather forecast and more
+
+theme: jekyll-theme-architect
